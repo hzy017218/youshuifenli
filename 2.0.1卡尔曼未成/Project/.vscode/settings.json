@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "bsp_motor_control.h": "c",
+        "bsp_encoder.h": "c"
+    }
+}

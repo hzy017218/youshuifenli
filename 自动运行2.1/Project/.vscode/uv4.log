@@ -1,0 +1,11 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\Program Files\Keil5\ARM\ARMCC\Bin'
+Build target 'TIM'
+compiling bsp_motor_control.c...
+..\User\motor_control\bsp_motor_control.c(186): warning:  #188-D: enumerated type mixed with another type
+              set_motor_direction(dec_temp);
+..\User\motor_control\bsp_motor_control.c: 1 warning, 0 errors
+compiling main.c...
+linking...
+Program Size: Code=13508 RO-data=360 RW-data=68 ZI-data=1476  
+"..\Output\Fire_F103ZE.axf" - 0 Error(s), 1 Warning(s).
+Build Time Elapsed:  00:00:01
